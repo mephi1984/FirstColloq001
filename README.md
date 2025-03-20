@@ -13,6 +13,7 @@ python main_b.py
 ```
 
 # More?
+https://github.com/mephi1984/FirstColloq001
 
 
 # License 
